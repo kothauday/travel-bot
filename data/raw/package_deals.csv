@@ -1,0 +1,13 @@
+package_id,name,destination,duration_days,price_per_person_usd,includes,best_season,highlights
+1,Japan Cherry Blossom Tour,Japan,10,3200,"Flights,Hotels,JR Pass,Tours",March-April,"Shinkansen,Temples,Cherry Blossoms,Mt Fuji"
+2,Bali Wellness Retreat,Bali,7,1800,"Flights,Resort,Yoga,Spa,Meals",April-October,"Rice Terraces,Temples,Surfing,Cooking Class"
+3,Paris Romance Package,France,5,2400,"Flights,4-Star Hotel,Seine Cruise,Museum Pass",April-June,"Eiffel Tower,Louvre,Versailles,Fine Dining"
+4,Dubai Luxury Escape,UAE,6,3800,"Flights,5-Star Hotel,Desert Safari,Burj Khalifa",October-April,"Desert,Gold Souk,Waterpark,Skydiving"
+5,Himalayan Trek Nepal,Nepal,14,2100,"Flights,Tea House Stays,Guide,Porter,Permits",March-May,"Everest Base Camp,Sherpa Culture,Namche Bazaar"
+6,Machu Picchu Discovery,Peru,9,2600,"Flights,Hotels,Train,Guide",May-September,"Machu Picchu,Cusco,Sacred Valley,Inca Trail"
+7,African Safari Kenya,Kenya,10,4500,"Flights,Safari Lodge,Game Drives,Park Fees,Meals",July-October,"Big Five,Masai Mara,Hot Air Balloon"
+8,Greek Island Hopper,Greece,10,2800,"Flights,Ferry Passes,Hotels",June-August,"Santorini,Mykonos,Athens,Fresh Seafood"
+9,Northern Lights Iceland,Iceland,6,2200,"Flights,Hotel,Northern Lights Tour,Blue Lagoon",November-February,"Aurora Borealis,Geysers,Waterfalls"
+10,Maldives Overwater Escape,Maldives,7,4200,"Flights,Overwater Bungalow,Meals,Snorkelling",November-April,"Coral Reefs,Dolphin Watching,Sunset Cruise"
+11,Vietnam Street Food Tour,Vietnam,10,1400,"Flights,Hotels,Food Tours,Ha Long Bay Cruise",February-April,"Hanoi,Ho Chi Minh City,Hoi An,Pho"
+12,Singapore City Break,Singapore,4,1600,"Flights,5-Star Hotel,City Tour,Gardens by the Bay",Year-round,"Marina Bay,Sentosa,Hawker Food,Shopping"

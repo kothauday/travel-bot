@@ -1,0 +1,21 @@
+route_id,origin_city,origin_code,destination_city,destination_code,airline,duration_hours,avg_price_usd,class
+1,New York,JFK,London,LHR,British Airways,7.0,620,Economy
+2,New York,JFK,Paris,CDG,Air France,7.5,580,Economy
+3,New York,JFK,Tokyo,NRT,Japan Airlines,14.0,890,Economy
+4,Los Angeles,LAX,Tokyo,NRT,Japan Airlines,11.5,760,Economy
+5,Los Angeles,LAX,Bali,DPS,Garuda Indonesia,17.0,680,Economy
+6,London,LHR,Dubai,DXB,Emirates,7.0,480,Economy
+7,London,LHR,Singapore,SIN,Singapore Airlines,13.5,620,Economy
+8,London,LHR,Bali,DPS,KLM,16.0,750,Economy
+9,Sydney,SYD,Bali,DPS,Jetstar,6.0,280,Economy
+10,Sydney,SYD,Tokyo,NRT,Qantas,9.5,820,Economy
+11,Dubai,DXB,Bangkok,BKK,Emirates,6.0,380,Economy
+12,Singapore,SIN,Tokyo,NRT,Singapore Airlines,7.0,340,Economy
+13,Mumbai,BOM,Dubai,DXB,Air India,3.5,210,Economy
+14,New York,JFK,London,LHR,British Airways,7.0,2800,Business
+15,London,LHR,Dubai,DXB,Emirates,7.0,3200,Business
+16,Los Angeles,LAX,Tokyo,NRT,ANA,11.5,4100,Business
+17,New York,JFK,Paris,CDG,Air France,7.5,3600,Business
+18,Sydney,SYD,London,LHR,Qantas,22.0,7800,Business
+19,Delhi,DEL,Singapore,SIN,IndiGo,5.5,290,Economy
+20,Bangkok,BKK,Bali,DPS,AirAsia,4.0,180,Economy

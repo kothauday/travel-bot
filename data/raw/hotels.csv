@@ -1,0 +1,21 @@
+hotel_id,name,city,country,stars,price_per_night_usd,amenities,review_score
+1,The Imperial Palace,Tokyo,Japan,5,420,"Pool,Spa,Gym,Restaurant,Airport Shuttle",9.2
+2,Shinjuku Granbell Hotel,Tokyo,Japan,4,180,"Gym,Restaurant,Rooftop Lounge",8.7
+3,Asakusa View Hotel,Tokyo,Japan,3,95,"Restaurant,Bar,City Views",8.1
+4,Hotel Granvia Kyoto,Kyoto,Japan,4,210,"Spa,Gym,Restaurant,Tea Ceremony",8.9
+5,Gion Hatanaka Ryokan,Kyoto,Japan,5,380,"Traditional Breakfast,Garden,Onsen",9.6
+6,InterContinental Paris Le Grand,Paris,France,5,680,"Spa,Pool,Gym,Restaurant",9.1
+7,Hotel du Louvre,Paris,France,4,340,"Restaurant,Bar,Louvre Views",8.8
+8,Generator Paris,Paris,France,2,60,"Bar,Shared Kitchen,Social Spaces",8.3
+9,Four Seasons Bali at Sayan,Ubud,Indonesia,5,750,"Infinity Pool,Spa,Yoga,Restaurant",9.5
+10,Alaya Resort Ubud,Ubud,Indonesia,4,220,"Pool,Spa,Restaurant,Rice Field Views",9.0
+11,Burj Al Arab,Dubai,UAE,7,2500,"Private Beach,Pools,Spa,Butler Service",9.7
+12,Atlantis The Palm,Dubai,UAE,5,480,"Waterpark,Beach,Pools,Spa,Aquarium",9.1
+13,Rove Downtown Dubai,Dubai,UAE,3,110,"Pool,Gym,Restaurant,Dubai Frame Views",8.6
+14,Marriott Barcelona,Barcelona,Spain,5,390,"Pool,Spa,Gym,Restaurant",9.0
+15,Hotel Arts Barcelona,Barcelona,Spain,5,520,"Beach,Pool,Spa,Michelin Restaurant",9.4
+16,The Oberoi New Delhi,New Delhi,India,5,310,"Pool,Spa,Gym,Restaurant",9.2
+17,Taj Mahal Palace Mumbai,Mumbai,India,5,420,"Pool,Spa,Multiple Restaurants",9.5
+18,Capella Singapore,Singapore,Singapore,5,680,"Pool,Spa,Gym,Multiple Restaurants",9.6
+19,Marina Bay Sands,Singapore,Singapore,5,580,"Infinity Pool,Casino,Spa,Restaurants",9.3
+20,Zostel Delhi,New Delhi,India,1,15,"Shared Kitchen,Common Area,Lockers",8.0

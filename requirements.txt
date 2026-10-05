@@ -1,0 +1,17 @@
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+pypdf
+jq
+streamlit
+pytest
+httpx
+reportlab
